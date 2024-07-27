@@ -12,9 +12,10 @@ Welcome to the Labs of OpenCvSharp with C# notebooks powered by .NET Interactive
 
 ## OpenCvSharp 101
 
-| # | Topic           | CN       | Notebook Link                                            |
-|---|-----------------|----------|----------------------------------------------------------|
-| 1 | Accessing Pixel | 访问像素 | [01-accessing-pixel.ipynb](101/01-accessing-pixel.ipynb) |
+Topic            | --           | Notebook Link
+-----------------|--------------|-----------------------------------------------------------
+Accessing Pixel  | 访问像素     | [01-accessing-pixel.ipynb](101/01-accessing-pixel.ipynb)
+Converting Image | 图像类型转换 | [02-Converting-Image.ipynb](101/02-Converting-Image.ipynb)
 
 
 
