@@ -12,12 +12,13 @@ Welcome to the Labs of OpenCvSharp with C# notebooks powered by .NET Interactive
 
 ## OpenCvSharp 101
 
-Topic            | --           | Notebook Link
------------------|--------------|-----------------------------------------------------------
-Accessing Pixel  | 访问像素     | [01-accessing-pixel.ipynb](101/01-accessing-pixel.ipynb)
-Converting Image | 图像类型转换 | [02-Converting-Image.ipynb](101/02-Converting-Image.ipynb)
-Solve Equation   | 解方程组     | [03-solve-equation.ipynb](101/03-solve-equation.ipynb)
-Histogram        | 直方图       | [03-solve-equation.ipynb](101/04-histogram.ipynb)
+Topic            | --             | Notebook Link
+-----------------|----------------|-----------------------------------------------------------
+Accessing Pixel  | 访问像素       | [01-accessing-pixel.ipynb](101/01-accessing-pixel.ipynb)
+Converting Image | 图像类型转换   | [02-Converting-Image.ipynb](101/02-Converting-Image.ipynb)
+Solve Equation   | 解方程组       | [03-solve-equation.ipynb](101/03-solve-equation.ipynb)
+Histogram        | 直方图         | [04-histogram.ipynb](101/04-histogram.ipynb)
+DFT              | 离散傅里叶变换 | [05-DFT.ipynb](101/04-histogram.ipynb)
 
 
 
