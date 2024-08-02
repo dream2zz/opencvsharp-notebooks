@@ -20,7 +20,8 @@ Solve Equation   | 解方程组       | [03-solve-equation.ipynb](101/03-solve-e
 Histogram        | 直方图         | [04-histogram.ipynb](101/04-histogram.ipynb)
 DFT              | 离散傅里叶变换 | [05-DFT.ipynb](101/05-DFT.ipynb)
 Subdiv2D         | 二位细分       | [06-Subdiv2D.ipynb](101/06-Subdiv2D.ipynb)
-Capturing-Video  | 播放视频       | [07-Video-RW.ipynb](101/07-Video-RW.ipynb)
+Video Read Write | 视频读写       | [07-Video-RW.ipynb](101/07-Video-RW.ipynb)
+Face Detect      | 人脸识别       | [08-Face-Detect](101/08-Face-Detect.ipynb)
 
 ## Industrial 201
 
