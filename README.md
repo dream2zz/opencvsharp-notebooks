@@ -22,7 +22,7 @@ DFT              | 离散傅里叶变换 | [05-DFT.ipynb](101/05-DFT.ipynb)
 Subdiv2D         | 二位细分       | [06-Subdiv2D.ipynb](101/06-Subdiv2D.ipynb)
 Video Read Write | 视频读写       | [07-Video-RW.ipynb](101/07-Video-RW.ipynb)
 Face Detect      | 人脸识别       | [08-Face-Detect.ipynb](101/08-Face-Detect.ipynb)
-BRISK            | 特征检测       | [09-Keypoints-Detect.ipynb](101/09-Keypoints-Detect.ipynb)
+Keypoints Detect | 特征检测       | [09-Keypoints-Detect.ipynb](101/09-Keypoints-Detect.ipynb)
 
 ## Industrial 201
 
