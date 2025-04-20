@@ -13,6 +13,10 @@ Welcome to the Labs of OpenCvSharp with C# notebooks powered by .NET Interactive
   - `conda install jupyter`
 5. `必需`安装 Jupyter 支持：`dotnet interactive jupyter install`
 
+```
+git config --global http.sslVerify false
+```
+
 ## OpenCvSharp 101
 
 Topic            | --             | Notebook Link
